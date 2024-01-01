@@ -8,3 +8,4 @@ Ref : [Trello Youtube](https://www.youtube.com/watch?v=pRybm9lXW2c&t=7542s)
 - Typescript
 - Clerk
 - Tailwind
+- Prisma / PlanetScale
