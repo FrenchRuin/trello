@@ -7,3 +7,4 @@ Ref : [Trello Youtube](https://www.youtube.com/watch?v=pRybm9lXW2c&t=7542s)
 - Next Js 14
 - Typescript
 - Clerk
+- Tailwind
