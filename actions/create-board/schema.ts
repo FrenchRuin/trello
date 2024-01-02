@@ -1,5 +1,7 @@
 import { z } from 'zod'
 
+// Zod 를 사용하여 Schema 구조 생성
+// 최소 글자와, string을 사용
 export const CreateBoard = z.object({
 	title: z
 		.string({
