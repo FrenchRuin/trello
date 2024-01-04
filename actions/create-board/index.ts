@@ -23,7 +23,7 @@ const handler = async (data: InputType): Promise<ReturnType> => {
 	try {
 		board = await db.board.create({
 			data: {
-				title: title
+				title
 			}
 		})
 	} catch (error) {
