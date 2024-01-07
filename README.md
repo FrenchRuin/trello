@@ -1,4 +1,4 @@
-## Next JS 를 활용한 클론코딩 Trello
+## Next JS 를 활용한 Trello
 
 🚄 [Trello Youtube](https://www.youtube.com/watch?v=pRybm9lXW2c&t=7542s)
 
