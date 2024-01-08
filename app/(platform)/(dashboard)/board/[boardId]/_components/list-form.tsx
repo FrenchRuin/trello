@@ -12,7 +12,6 @@ import { Button } from '@/components/ui/button'
 import { useAction } from '@/hooks/use-action'
 import { createList } from '@/actions/create-list'
 import { toast } from 'sonner'
-import { error } from 'console'
 
 export const ListForm = () => {
 	const router = useRouter()
