@@ -72,8 +72,8 @@ export const ListHeader = ({ data, onAddCard }: ListHeaderProps) => {
 		<div className="pt-2 px-2 text-sm font-semibold flex justify-between items-start-  gap-x-2">
 			{isEditing ? (
 				<form ref={formRef} action={handleSubmit} className="flex-1 px-[2px]">
-					<input hidden name="id" id="id" value={data.id} />
-					<input hidden name="boardId" id="boardId" value={data.boardId} />
+					<input hidden name="id" id="id" defaultValue={data.id} />
+					<input hidden name="boardId" id="boardId" defaultValue={data.boardId} />
 					<FormInput
 						ref={inputRef}
 						id="title"
